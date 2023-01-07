@@ -16,6 +16,7 @@ import static app.Colors.PANEL_BACKGROUND_COLOR;
 /**
  * Класс окна приложения
  */
+
 public class Application implements Consumer<Event> {
     /**
      * окно приложения
