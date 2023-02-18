@@ -62,6 +62,10 @@ public class Application implements Consumer<Event> {
      * панель событий
      */
     private final PanelLog panelLog;
+    /**
+     * Представление проблемы
+     */
+    public static Task task;
 
 
     /**
